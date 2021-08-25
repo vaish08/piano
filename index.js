@@ -1,7 +1,5 @@
 
 var keys = document.querySelectorAll('.key');
-var black = document.querySelectorAll('.key.black');
-var white = document.querySelectorAll('.key.white');
 
 
 //adds addEventListener to eack keys
